@@ -89,6 +89,5 @@ Customer_Churn_Analysis/
 ---
 
 ## ✨ Author  
-**Your Name**  
-📧 *youremail@example.com*  
-💼 [LinkedIn Profile](https://www.linkedin.com/) | [GitHub Repository](https://github.com/)
+**Rounak Agrawal**  
+📧 *rounakagrawal335@gmail.com* 
